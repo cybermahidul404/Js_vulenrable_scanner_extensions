@@ -1,0 +1,27 @@
+{
+    "manifest_version": 3,
+    "name": "JS Vulnerability Scanner",
+    "version": "1.0",
+    "permissions": [
+      "activeTab",
+      "storage",
+      "http://*/*",
+      "https://*/*"
+    ],
+    "background": {
+      "service_worker": "background.js"
+    },
+    "action": {
+      "default_popup": "popup.html"
+    },
+    "content_scripts": [
+      {
+        "matches": ["<all_urls>"],
+        "js": ["content.js"]
+      }
+    ],
+    "host_permissions": [
+      "http://*/*",
+      "https://*/*"
+    ]
+  }
