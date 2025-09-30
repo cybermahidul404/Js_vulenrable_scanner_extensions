@@ -1,4 +1,4 @@
-# Js_vulenrable_scanner_extensions
+# Js_vulnerable_scanner_extensions
 # 🔍 SecureJS - JavaScript Vulnerability Scanner (Chrome Extension)
 
 A Chrome extension that scans subdomains of a target domain, extracts JavaScript libraries, detects versions, and checks for known vulnerabilities via [OSV.dev](https://osv.dev).
