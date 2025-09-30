@@ -44,8 +44,8 @@ Click Load unpacked and select your project folder.
 Pin the extension → click the icon → run a scan 🚀.
 
 🖼️ Screenshots
-![Popup](screenshots/js_vulnerabilit1.PNG)
-![Results](screenshots/js_vulnerability.PNG)
+![Popup](Js_vulenrable_scanner_extensions/screenshots/js_vulnerabilit1.PNG)
+![Results](Js_vulenrable_scanner_extensions/screenshots/js_vulnerability.PNG)
 
 📖 Usage Example
 Open any website (e.g., example.com)
