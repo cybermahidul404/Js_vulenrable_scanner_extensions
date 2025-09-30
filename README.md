@@ -34,8 +34,6 @@ js-vuln-scanner/
    cd js-vuln-scanner
 Open Chrome and go to:
 
-arduino
-Copy code
 chrome://extensions/
 Enable Developer Mode (top-right).
 
